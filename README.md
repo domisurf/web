@@ -1,3 +1,3 @@
 # web
-<a href="web/index.html">
+<a href="https://domisurf.github.io/web/index.html">
 this is domi's daily surf log
